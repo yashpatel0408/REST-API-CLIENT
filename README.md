@@ -30,3 +30,7 @@ The code is structured in a way that makes it easy to understand and expand. For
 Overall, this project is a good example of how to build a basic but functional weather app using Java. It covers practical topics like making HTTP requests, handling user input, parsing JSON data, and working with external services. It also lays the foundation for more advanced features, such as adding a GUI, storing history, or even integrating multiple APIs.
 
 This kind of project is great for learning because it touches on real-world tasks developers often deal with, like consuming public APIs and turning raw data into user-friendly output. Plus, it gives a hands-on introduction to how backend services like weather apps actually work behind the scenes.
+
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/30a4b5db-5ecf-4806-ada1-fa24ff86fec8)
